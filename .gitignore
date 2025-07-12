@@ -208,6 +208,6 @@ __marimo__/
 
 # Extras
 .kaggle
-
-# Data files
 data/*.csv
+notebooks/AutogluonModels/
+.venv-autogluon
